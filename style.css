@@ -4,13 +4,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0; /* Colore di sfondo */
+    background-color: rgba(208, 25, 193, 0.684); /* Colore di sfondo */
   }
   
   #container {
     position: relative;
     text-align: center;
-    background-color: #fff;
+    background-color: #4dfff9a2;
     padding: 60px; /* Aumentato il padding */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
